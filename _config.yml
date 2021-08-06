@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Time to Go
     description                           : Calculates weeks and days from today to selected dates in the future or past.
-    fontawesome_icon_name                 : time
+    fontawesome_icon_name                 : clock
     
   - title                                 : Lead Time
     description                           : Provides a lead time date for a given numbers of week from today.
