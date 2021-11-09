@@ -51,6 +51,14 @@ features                                  :
     description                           : Quickly view your important dates on your home page or today view
     fontawesome_icon_name                 : mobile
 
+  - title                                 : Notes
+    description                           : Add a note to each date
+    fontawesome_icon_name                 : note
+  
+  - title                                 : Sort
+    description                           : Change the date sort order
+    fontawesome_icon_name                 : sort
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
