@@ -4,14 +4,10 @@ title: What's New
 include_in_header: false
 ---
 
-# Changelog
-Work in progress
-<br>
-
 ### `Latest`
-# **Version 2.0**
-Work in progress
+# **Version 1.2.3**
+
 #### What's New
-- Work in progress
+- Add a note to each date
 
 <br>

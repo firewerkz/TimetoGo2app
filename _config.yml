@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Notes
     description                           : Add a note to each date
-    fontawesome_icon_name                 : note
+    fontawesome_icon_name                 : note-sticky
   
   - title                                 : Sort
     description                           : Change the date sort order
